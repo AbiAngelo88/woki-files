@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lukianon - Tegola Disegno
+* source:	https://sketchfab.com/3d-models/lukianon-tegola-disegno-3f7e66e67d76478db50924086f31c7d5
+* author:	Lukianon (https://sketchfab.com/lukianon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lukianon - Tegola Disegno" (https://sketchfab.com/3d-models/lukianon-tegola-disegno-3f7e66e67d76478db50924086f31c7d5) by Lukianon (https://sketchfab.com/lukianon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
